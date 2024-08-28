@@ -12128,6 +12128,50 @@ fieldset:disabled .btn {
   content: "\e917";
 }
 
+/* src/assets/fonts/manrope/stylesheet.css */
+@font-face {
+  font-family: "Manrope Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope Regular"), url("./media/Manrope-Regular-XVH52NWZ.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Manrope Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope Light"), url("./media/Manrope-Light-Y5DQMGPD.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Manrope ExtraLight";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope ExtraLight"), url("./media/Manrope-ExtraLight-73PSLEHW.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Manrope Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope Medium"), url("./media/Manrope-Medium-EG6W7WPF.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Manrope Semibold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope Semibold"), url("./media/Manrope-SemiBold-UGY74FUV.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Manrope Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope Bold"), url("./media/Manrope-Bold-CPQACTSE.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Manrope ExtraBold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Manrope ExtraBold"), url("./media/Manrope-ExtraBold-WMIW3IUY.ttf") format("truetype");
+}
+
 /* src/assets/fonts/menlo/stylesheet.css */
 @font-face {
   font-family: "Menlo";
