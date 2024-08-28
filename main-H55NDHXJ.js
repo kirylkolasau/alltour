@@ -42857,7 +42857,7 @@ var BestOffersComponent = class _BestOffersComponent {
     {
       id: 1,
       name: "\u0422\u0443\u0440\u0446\u0438\u044F",
-      img: "/assets/images/gallery/country1.jpg",
+      img: "assets/images/gallery/country1.jpg",
       bus: {
         byn: 2030,
         usd: 700
@@ -42870,7 +42870,7 @@ var BestOffersComponent = class _BestOffersComponent {
     {
       id: 2,
       name: "\u041E\u0410\u042D",
-      img: "/assets/images/gallery/country2.jpg",
+      img: "assets/images/gallery/country2.jpg",
       bus: {
         byn: 2030,
         usd: 700
@@ -42883,7 +42883,7 @@ var BestOffersComponent = class _BestOffersComponent {
     {
       id: 3,
       name: "\u0422\u0430\u0439\u043B\u0430\u043D\u0434",
-      img: "/assets/images/gallery/country3.jpg",
+      img: "assets/images/gallery/country3.jpg",
       bus: {
         byn: 2030,
         usd: 700
@@ -42896,7 +42896,7 @@ var BestOffersComponent = class _BestOffersComponent {
     {
       id: 4,
       name: "\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B",
-      img: "/assets/images/gallery/country4.jpg",
+      img: "assets/images/gallery/country4.jpg",
       bus: {
         byn: 2030,
         usd: 700
@@ -42909,7 +42909,7 @@ var BestOffersComponent = class _BestOffersComponent {
     {
       id: 5,
       name: "\u0418\u0441\u043F\u0430\u043D\u0438\u044F",
-      img: "/assets/images/gallery/country5.jpg",
+      img: "assets/images/gallery/country5.jpg",
       bus: {
         byn: 2030,
         usd: 700
@@ -42922,7 +42922,7 @@ var BestOffersComponent = class _BestOffersComponent {
     {
       id: 6,
       name: "\u0418\u0442\u0430\u043B\u0438\u044F",
-      img: "/assets/images/gallery/country6.jpg",
+      img: "assets/images/gallery/country6.jpg",
       bus: {
         byn: 2030,
         usd: 700
@@ -53434,7 +53434,7 @@ var HOTELS_MOCK_DATA = [
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
     label: "\u0425\u0438\u0442 \u043F\u0440\u043E\u0434\u0430\u0436",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53446,7 +53446,7 @@ var HOTELS_MOCK_DATA = [
     name: "Arabian Beach Resort 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53459,7 +53459,7 @@ var HOTELS_MOCK_DATA = [
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53471,7 +53471,7 @@ var HOTELS_MOCK_DATA = [
     name: "Steigenberger Alcazar 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53483,7 +53483,7 @@ var HOTELS_MOCK_DATA = [
     name: "Rixos Sharm El Sheikh 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53495,7 +53495,7 @@ var HOTELS_MOCK_DATA = [
     name: "Baron Resort 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53507,7 +53507,7 @@ var HOTELS_MOCK_DATA = [
     name: "Steigenberger Alcazar 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
-    images: ["/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53519,7 +53519,7 @@ var HOTELS_MOCK_DATA = [
     name: "Jaz Aquamarine 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0425\u0443\u0440\u0433\u0430\u0434\u0430",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53531,7 +53531,7 @@ var HOTELS_MOCK_DATA = [
     name: "SUNRISE Arabian Beach Resort 5*",
     country: "\u0415\u0433\u0438\u043F\u0435\u0442",
     city: "\u0428\u0430\u0440\u043C-\u044D\u043B\u044C-\u0428\u0435\u0439\u0445",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53544,7 +53544,7 @@ var HOTELS_MOCK_DATA = [
     name: "Voyage Belek Golf & Spa 5*",
     country: "\u0422\u0443\u0440\u0446\u0438\u044F",
     city: "\u0411\u0435\u043B\u0435\u043A",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53556,7 +53556,7 @@ var HOTELS_MOCK_DATA = [
     name: "Gloria Serenity Resort 5*",
     country: "\u0422\u0443\u0440\u0446\u0438\u044F",
     city: "\u0411\u0435\u043B\u0435\u043A",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg"],
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53569,7 +53569,7 @@ var HOTELS_MOCK_DATA = [
     name: "Regnum Carya Golf & Spa Resort 5*",
     country: "\u0422\u0443\u0440\u0446\u0438\u044F",
     city: "\u0411\u0435\u043B\u0435\u043A",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53581,7 +53581,7 @@ var HOTELS_MOCK_DATA = [
     name: "Maxx Royal Belek Golf Resort 5*",
     country: "\u0422\u0443\u0440\u0446\u0438\u044F",
     city: "\u0411\u0435\u043B\u0435\u043A",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53593,7 +53593,7 @@ var HOTELS_MOCK_DATA = [
     name: "Titanic Deluxe Golf Belek 5*",
     country: "\u0422\u0443\u0440\u0446\u0438\u044F",
     city: "\u0411\u0435\u043B\u0435\u043A",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53606,7 +53606,7 @@ var HOTELS_MOCK_DATA = [
     name: "Amari Phuket 4*",
     country: "\u0422\u0430\u0438\u043B\u0430\u043D\u0434",
     city: "\u041F\u0445\u0443\u043A\u0435\u0442",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg"],
     label: "\u0425\u0438\u0442 \u043F\u0440\u043E\u0434\u0430\u0436",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53619,7 +53619,7 @@ var HOTELS_MOCK_DATA = [
     name: "The Slate 5*",
     country: "\u0422\u0430\u0438\u043B\u0430\u043D\u0434",
     city: "\u041F\u0445\u0443\u043A\u0435\u0442",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg"],
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53632,7 +53632,7 @@ var HOTELS_MOCK_DATA = [
     name: "Mandarava Resort & Spa 4*",
     country: "\u0422\u0430\u0438\u043B\u0430\u043D\u0434",
     city: "\u041F\u0445\u0443\u043A\u0435\u0442",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53644,7 +53644,7 @@ var HOTELS_MOCK_DATA = [
     name: "Katathani Phuket Beach Resort 5*",
     country: "\u0422\u0430\u0438\u043B\u0430\u043D\u0434",
     city: "\u041F\u0445\u0443\u043A\u0435\u0442",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53656,7 +53656,7 @@ var HOTELS_MOCK_DATA = [
     name: "Centara Grand Beach Resort Phuket 5*",
     country: "\u0422\u0430\u0438\u043B\u0430\u043D\u0434",
     city: "\u041F\u0445\u0443\u043A\u0435\u0442",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53669,7 +53669,7 @@ var HOTELS_MOCK_DATA = [
     name: "Vinpearl Resort Nha Trang 5*",
     country: "\u0412\u044C\u0435\u0442\u043D\u0430\u043C",
     city: "\u041D\u044F\u0447\u0430\u043D\u0433",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53681,7 +53681,7 @@ var HOTELS_MOCK_DATA = [
     name: "Furama Resort Danang 5*",
     country: "\u0412\u044C\u0435\u0442\u043D\u0430\u043C",
     city: "\u041D\u044F\u0447\u0430\u043D\u0433",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53693,7 +53693,7 @@ var HOTELS_MOCK_DATA = [
     name: "Mia Resort Nha Trang 5*",
     country: "\u0412\u044C\u0435\u0442\u043D\u0430\u043C",
     city: "\u041D\u044F\u0447\u0430\u043D\u0433",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg"],
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53706,7 +53706,7 @@ var HOTELS_MOCK_DATA = [
     name: "Anantara Mui Ne Resort 5*",
     country: "\u0412\u044C\u0435\u0442\u043D\u0430\u043C",
     city: "\u041D\u044F\u0447\u0430\u043D\u0433",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg"],
     label: "\u0425\u0438\u0442 \u043F\u0440\u043E\u0434\u0430\u0436",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53719,7 +53719,7 @@ var HOTELS_MOCK_DATA = [
     name: "Salinda Resort Phu Quoc Island 5*",
     country: "\u0412\u044C\u0435\u0442\u043D\u0430\u043C",
     city: "\u041D\u044F\u0447\u0430\u043D\u0433",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53732,7 +53732,7 @@ var HOTELS_MOCK_DATA = [
     name: "Hotel Danieli, a Luxury Collection Hotel, Venice 5*",
     country: "\u0418\u0442\u0430\u043B\u0438\u044F",
     city: "\u0412\u0435\u043D\u0435\u0446\u0438\u044F",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg"],
     label: "\u0425\u0438\u0442 \u043F\u0440\u043E\u0434\u0430\u0436",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53745,7 +53745,7 @@ var HOTELS_MOCK_DATA = [
     name: "Grand Hotel Tremezzo 5*",
     country: "\u0418\u0442\u0430\u043B\u0438\u044F",
     city: "\u0412\u0435\u043D\u0435\u0446\u0438\u044F",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53757,7 +53757,7 @@ var HOTELS_MOCK_DATA = [
     name: "Belmond Hotel Caruso 5*",
     country: "\u0418\u0442\u0430\u043B\u0438\u044F",
     city: "\u0410\u043C\u0430\u043B\u044C\u0444\u0438",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53769,7 +53769,7 @@ var HOTELS_MOCK_DATA = [
     name: "Il San Pietro di Positano 5*",
     country: "\u0418\u0442\u0430\u043B\u0438\u044F",
     city: "\u041F\u043E\u0437\u0438\u0442\u0430\u043D\u043E",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg"],
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53782,7 +53782,7 @@ var HOTELS_MOCK_DATA = [
     name: "Four Seasons Hotel Firenze 5*",
     country: "\u0418\u0442\u0430\u043B\u0438\u044F",
     city: "\u0424\u043B\u043E\u0440\u0435\u043D\u0446\u0438\u044F",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53795,7 +53795,7 @@ var HOTELS_MOCK_DATA = [
     name: "Soneva Fushi 5*",
     country: "\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B",
     city: "\u0411\u0430\u0430 \u0410\u0442\u043E\u043B\u043B",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53807,7 +53807,7 @@ var HOTELS_MOCK_DATA = [
     name: "Gili Lankanfushi Maldives 5*",
     country: "\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B",
     city: "\u0411\u0430\u0430 \u0410\u0442\u043E\u043B\u043B",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg"],
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53820,7 +53820,7 @@ var HOTELS_MOCK_DATA = [
     name: "One&Only Reethi Rah 5*",
     country: "\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B",
     city: "\u0411\u0430\u0430 \u0410\u0442\u043E\u043B\u043B",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg"],
     label: "\u0425\u0438\u0442 \u043F\u0440\u043E\u0434\u0430\u0436",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53833,7 +53833,7 @@ var HOTELS_MOCK_DATA = [
     name: "Baros Maldives 5*",
     country: "\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B",
     city: "\u0411\u0430\u0430 \u0410\u0442\u043E\u043B\u043B",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53845,7 +53845,7 @@ var HOTELS_MOCK_DATA = [
     name: "Constance Moofushi Maldives 5*",
     country: "\u041C\u0430\u043B\u044C\u0434\u0438\u0432\u044B",
     city: "\u0411\u0430\u0430 \u0410\u0442\u043E\u043B\u043B",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53858,7 +53858,7 @@ var HOTELS_MOCK_DATA = [
     name: "Burj Al Arab Jumeirah 7*",
     country: "\u041E\u0410\u042D",
     city: "\u0414\u0443\u0431\u0430\u0439",
-    images: ["/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg"],
+    images: ["assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg"],
     label: "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -53871,7 +53871,7 @@ var HOTELS_MOCK_DATA = [
     name: "Atlantis The Palm 5*",
     country: "\u041E\u0410\u042D",
     city: "\u0414\u0443\u0431\u0430\u0439",
-    images: ["/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg"],
+    images: ["assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53883,7 +53883,7 @@ var HOTELS_MOCK_DATA = [
     name: "Armani Hotel Dubai 5*",
     country: "\u041E\u0410\u042D",
     city: "\u0414\u0443\u0431\u0430\u0439",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53895,7 +53895,7 @@ var HOTELS_MOCK_DATA = [
     name: "Jumeirah Al Naseem 5*",
     country: "\u041E\u0410\u042D",
     city: "\u0414\u0443\u0431\u0430\u0439",
-    images: ["/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel1.jpg", "/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel3.jpg"],
+    images: ["assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel1.jpg", "assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel3.jpg"],
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
       { code: "star", text: "\u0441\u0435\u0440\u0432\u0438\u0441" },
@@ -53907,7 +53907,7 @@ var HOTELS_MOCK_DATA = [
     name: "The Ritz-Carlton, Dubai 5*",
     country: "\u041E\u0410\u042D",
     city: "\u0414\u0443\u0431\u0430\u0439",
-    images: ["/assets/images/gallery/hotel2.jpg", "/assets/images/gallery/hotel4.jpg", "/assets/images/gallery/hotel3.jpg", "/assets/images/gallery/hotel1.jpg"],
+    images: ["assets/images/gallery/hotel2.jpg", "assets/images/gallery/hotel4.jpg", "assets/images/gallery/hotel3.jpg", "assets/images/gallery/hotel1.jpg"],
     label: "\u0425\u0438\u0442 \u043F\u0440\u043E\u0434\u0430\u0436",
     likes: [
       { code: "food", text: "\u043F\u0438\u0442\u0430\u043D\u0438\u0435" },
@@ -56880,7 +56880,7 @@ var EliteFormatComponent = class _EliteFormatComponent {
   static \u0275fac = function EliteFormatComponent_Factory(t) {
     return new (t || _EliteFormatComponent)();
   };
-  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _EliteFormatComponent, selectors: [["app-elite-format"]], standalone: true, features: [\u0275\u0275StandaloneFeature], decls: 17, vars: 1, consts: [[3, "hasHeader"], ["content", ""], [1, "elite-format-container"], [1, "elite-format-text"], [1, "elite-format-subtitle"], [1, "elite-format-description"], [1, "btn", "btn-secondary"], [1, "elite-format-preview"], [1, "elite-format-image"], ["src", "assets/images/gallery/rixos.jpg", "alt", "Rixos image"], [1, "elite-format-logo"], ["src", "/assets/images/rixos-logo.svg", "alt", "Rixos logo"]], template: function EliteFormatComponent_Template(rf, ctx) {
+  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _EliteFormatComponent, selectors: [["app-elite-format"]], standalone: true, features: [\u0275\u0275StandaloneFeature], decls: 17, vars: 1, consts: [[3, "hasHeader"], ["content", ""], [1, "elite-format-container"], [1, "elite-format-text"], [1, "elite-format-subtitle"], [1, "elite-format-description"], [1, "btn", "btn-secondary"], [1, "elite-format-preview"], [1, "elite-format-image"], ["src", "assets/images/gallery/rixos.jpg", "alt", "Rixos image"], [1, "elite-format-logo"], ["src", "assets/images/rixos-logo.svg", "alt", "Rixos logo"]], template: function EliteFormatComponent_Template(rf, ctx) {
     if (rf & 1) {
       \u0275\u0275elementStart(0, "app-section-wrapper", 0);
       \u0275\u0275elementContainerStart(1, 1);
@@ -56992,7 +56992,7 @@ var FEEDBACK_MOCK_DATA = [
   {
     title: "\u041C\u043E\u0439 \u043F\u0435\u0440\u0432\u044B\u0439 \u043E\u0442\u0434\u044B\u0445 \u043D\u0430 \u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430\u0445",
     description: "\u0414\u043E\u0431\u0440\u044B\u0439 \u0434\u0435\u043D\u044C! \u0425\u043E\u0442\u0435\u043B\u043E\u0441\u044C\xA0\u0431\u044B \u0441\u043A\u0430\u0437\u0430\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u0441\u043F\u0430\u0441\u0438\u0431\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0443 \u0410\u043D\u043D\u0435 \u0437\u0430\xA0\u0435\u0435\xA0\u0445\u043E\u0440\u043E\u0448\u0443\u044E \u0440\u0430\u0431\u043E\u0442\u0443! \u0417\u0430\u0445\u043E\u0442\u0435\u043B\u043E\u0441\u044C \u043D\u0430\u043C \u0441\xA0\u043C\u0443\u0436\u0435\u043C \u043E\u0442\u0434\u043E\u0445\u043D\u0443\u0442\u044C \u043E\u0442\xA0\u043D\u0430\u0448\u0435\u0433\u043E \xAB\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u043E\u0433\u043E \u043B\u0435\u0442\u0430\xBB \u0432\xA0\u0442\u0435\u043F\u043B\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u0435. \u0418\u0437\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043C\u0443\u0436 \u0441\u043A\u0435\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u043E\u0442\u043D\u0435\u0441\u0441\u044F \u043A\xA0\u043E\u0442\u0434\u044B\u0445\u0443 \u0432\xA0\u0422\u0443\u0440\u0446\u0438\u0438, \u043D\u043E\xA0\u0410\u043D\u0435\u0447\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u0435\u0433\u043E \u043F\u0435\u0440\u0435\u0443\u0431\u0435\u0434\u0438\u0442\u044C\xA0\u2014 \u0432\u0441\u0435 \u0442\u0430\u043A\u0438 \u043D\u0430\xA0\u043A\u0443\u0440\u043E\u0440\u0442\u0430\u0445 \u0432\u0441\u0435 \u0442\u0438\u0445\u043E \u0438\xA0\u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E. \u0412\xA0\u0438\u0442\u043E\u0433\u0435 \u0432\u044B\u0431\u0440\u0430\u043B\u0438 \u043E\u0442\u0435\u043B\u044C \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0435\u043A\u0443 \u043E\u0442\xA0\u041A\u0435\u043C\u0435\u0440\u0430\xA0\u2014 \u0411\u0435\u043B\u044C\u043F",
-    avatar: "/assets/images/personal/feedback1.jpg",
+    avatar: "assets/images/personal/feedback1.jpg",
     name: "\u0418\u0432\u0430\u043D \u0424\u0435\u0434\u043E\u0440\u043E\u0432",
     info: "\u041E\u0442\u0434\u044B\u0445\u0430\u043B \u0432 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2023 \u0432 \u041A\u0430\u0438\u0440\u0435, \u0415\u0433\u0438\u043F\u0435\u0442",
     link: "#"
@@ -57000,7 +57000,7 @@ var FEEDBACK_MOCK_DATA = [
   {
     title: "\u041C\u043E\u0439 \u043F\u0435\u0440\u0432\u044B\u0439 \u043E\u0442\u0434\u044B\u0445 \u043D\u0430 \u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430\u0445",
     description: "\u0414\u043E\u0431\u0440\u044B\u0439 \u0434\u0435\u043D\u044C! \u0425\u043E\u0442\u0435\u043B\u043E\u0441\u044C\xA0\u0431\u044B \u0441\u043A\u0430\u0437\u0430\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u0441\u043F\u0430\u0441\u0438\u0431\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0443 \u0410\u043D\u043D\u0435 \u0437\u0430\xA0\u0435\u0435\xA0\u0445\u043E\u0440\u043E\u0448\u0443\u044E \u0440\u0430\u0431\u043E\u0442\u0443! \u0417\u0430\u0445\u043E\u0442\u0435\u043B\u043E\u0441\u044C \u043D\u0430\u043C \u0441\xA0\u043C\u0443\u0436\u0435\u043C \u043E\u0442\u0434\u043E\u0445\u043D\u0443\u0442\u044C \u043E\u0442\xA0\u043D\u0430\u0448\u0435\u0433\u043E \xAB\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u043E\u0433\u043E \u043B\u0435\u0442\u0430\xBB \u0432\xA0\u0442\u0435\u043F\u043B\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u0435. \u0418\u0437\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043C\u0443\u0436 \u0441\u043A\u0435\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u043E\u0442\u043D\u0435\u0441\u0441\u044F \u043A\xA0\u043E\u0442\u0434\u044B\u0445\u0443 \u0432\xA0\u0422\u0443\u0440\u0446\u0438\u0438, \u043D\u043E\xA0\u0410\u043D\u0435\u0447\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u0435\u0433\u043E \u043F\u0435\u0440\u0435\u0443\u0431\u0435\u0434\u0438\u0442\u044C\xA0\u2014 \u0432\u0441\u0435 \u0442\u0430\u043A\u0438 \u043D\u0430\xA0\u043A\u0443\u0440\u043E\u0440\u0442\u0430\u0445 \u0432\u0441\u0435 \u0442\u0438\u0445\u043E \u0438\xA0\u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E. \u0412\xA0\u0438\u0442\u043E\u0433\u0435 \u0432\u044B\u0431\u0440\u0430\u043B\u0438 \u043E\u0442\u0435\u043B\u044C \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0435\u043A\u0443 \u043E\u0442\xA0\u041A\u0435\u043C\u0435\u0440\u0430\xA0\u2014 \u0411\u0435\u043B\u044C\u043F",
-    avatar: "/assets/images/personal/feedback1.jpg",
+    avatar: "assets/images/personal/feedback1.jpg",
     name: "\u0418\u0432\u0430\u043D \u0424\u0435\u0434\u043E\u0440\u043E\u0432",
     info: "\u041E\u0442\u0434\u044B\u0445\u0430\u043B \u0432 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2023 \u0432 \u041A\u0430\u0438\u0440\u0435, \u0415\u0433\u0438\u043F\u0435\u0442",
     link: "#"
@@ -57008,7 +57008,7 @@ var FEEDBACK_MOCK_DATA = [
   {
     title: "\u041C\u043E\u0439 \u043F\u0435\u0440\u0432\u044B\u0439 \u043E\u0442\u0434\u044B\u0445 \u043D\u0430 \u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430\u0445",
     description: "\u0414\u043E\u0431\u0440\u044B\u0439 \u0434\u0435\u043D\u044C! \u0425\u043E\u0442\u0435\u043B\u043E\u0441\u044C\xA0\u0431\u044B \u0441\u043A\u0430\u0437\u0430\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u0441\u043F\u0430\u0441\u0438\u0431\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0443 \u0410\u043D\u043D\u0435 \u0437\u0430\xA0\u0435\u0435\xA0\u0445\u043E\u0440\u043E\u0448\u0443\u044E \u0440\u0430\u0431\u043E\u0442\u0443! \u0417\u0430\u0445\u043E\u0442\u0435\u043B\u043E\u0441\u044C \u043D\u0430\u043C \u0441\xA0\u043C\u0443\u0436\u0435\u043C \u043E\u0442\u0434\u043E\u0445\u043D\u0443\u0442\u044C \u043E\u0442\xA0\u043D\u0430\u0448\u0435\u0433\u043E \xAB\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u043E\u0433\u043E \u043B\u0435\u0442\u0430\xBB \u0432\xA0\u0442\u0435\u043F\u043B\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u0435. \u0418\u0437\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043C\u0443\u0436 \u0441\u043A\u0435\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u043E\u0442\u043D\u0435\u0441\u0441\u044F \u043A\xA0\u043E\u0442\u0434\u044B\u0445\u0443 \u0432\xA0\u0422\u0443\u0440\u0446\u0438\u0438, \u043D\u043E\xA0\u0410\u043D\u0435\u0447\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u0435\u0433\u043E \u043F\u0435\u0440\u0435\u0443\u0431\u0435\u0434\u0438\u0442\u044C\xA0\u2014 \u0432\u0441\u0435 \u0442\u0430\u043A\u0438 \u043D\u0430\xA0\u043A\u0443\u0440\u043E\u0440\u0442\u0430\u0445 \u0432\u0441\u0435 \u0442\u0438\u0445\u043E \u0438\xA0\u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E. \u0412\xA0\u0438\u0442\u043E\u0433\u0435 \u0432\u044B\u0431\u0440\u0430\u043B\u0438 \u043E\u0442\u0435\u043B\u044C \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0435\u043A\u0443 \u043E\u0442\xA0\u041A\u0435\u043C\u0435\u0440\u0430\xA0\u2014 \u0411\u0435\u043B\u044C\u043F",
-    avatar: "/assets/images/personal/feedback1.jpg",
+    avatar: "assets/images/personal/feedback1.jpg",
     name: "\u0418\u0432\u0430\u043D \u0424\u0435\u0434\u043E\u0440\u043E\u0432",
     info: "\u041E\u0442\u0434\u044B\u0445\u0430\u043B \u0432 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2023 \u0432 \u041A\u0430\u0438\u0440\u0435, \u0415\u0433\u0438\u043F\u0435\u0442",
     link: "#"
@@ -57016,7 +57016,7 @@ var FEEDBACK_MOCK_DATA = [
   {
     title: "\u041C\u043E\u0439 \u043F\u0435\u0440\u0432\u044B\u0439 \u043E\u0442\u0434\u044B\u0445 \u043D\u0430 \u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430\u0445",
     description: "\u0414\u043E\u0431\u0440\u044B\u0439 \u0434\u0435\u043D\u044C! \u0425\u043E\u0442\u0435\u043B\u043E\u0441\u044C\xA0\u0431\u044B \u0441\u043A\u0430\u0437\u0430\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u0441\u043F\u0430\u0441\u0438\u0431\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0443 \u0410\u043D\u043D\u0435 \u0437\u0430\xA0\u0435\u0435\xA0\u0445\u043E\u0440\u043E\u0448\u0443\u044E \u0440\u0430\u0431\u043E\u0442\u0443! \u0417\u0430\u0445\u043E\u0442\u0435\u043B\u043E\u0441\u044C \u043D\u0430\u043C \u0441\xA0\u043C\u0443\u0436\u0435\u043C \u043E\u0442\u0434\u043E\u0445\u043D\u0443\u0442\u044C \u043E\u0442\xA0\u043D\u0430\u0448\u0435\u0433\u043E \xAB\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u043E\u0433\u043E \u043B\u0435\u0442\u0430\xBB \u0432\xA0\u0442\u0435\u043F\u043B\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u0435. \u0418\u0437\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043C\u0443\u0436 \u0441\u043A\u0435\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u043E\u0442\u043D\u0435\u0441\u0441\u044F \u043A\xA0\u043E\u0442\u0434\u044B\u0445\u0443 \u0432\xA0\u0422\u0443\u0440\u0446\u0438\u0438, \u043D\u043E\xA0\u0410\u043D\u0435\u0447\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u0435\u0433\u043E \u043F\u0435\u0440\u0435\u0443\u0431\u0435\u0434\u0438\u0442\u044C\xA0\u2014 \u0432\u0441\u0435 \u0442\u0430\u043A\u0438 \u043D\u0430\xA0\u043A\u0443\u0440\u043E\u0440\u0442\u0430\u0445 \u0432\u0441\u0435 \u0442\u0438\u0445\u043E \u0438\xA0\u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E. \u0412\xA0\u0438\u0442\u043E\u0433\u0435 \u0432\u044B\u0431\u0440\u0430\u043B\u0438 \u043E\u0442\u0435\u043B\u044C \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0435\u043A\u0443 \u043E\u0442\xA0\u041A\u0435\u043C\u0435\u0440\u0430\xA0\u2014 \u0411\u0435\u043B\u044C\u043F",
-    avatar: "/assets/images/personal/feedback1.jpg",
+    avatar: "assets/images/personal/feedback1.jpg",
     name: "\u0418\u0432\u0430\u043D \u0424\u0435\u0434\u043E\u0440\u043E\u0432",
     info: "\u041E\u0442\u0434\u044B\u0445\u0430\u043B \u0432 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2023 \u0432 \u041A\u0430\u0438\u0440\u0435, \u0415\u0433\u0438\u043F\u0435\u0442",
     link: "#"
@@ -57024,7 +57024,7 @@ var FEEDBACK_MOCK_DATA = [
   {
     title: "\u041C\u043E\u0439 \u043F\u0435\u0440\u0432\u044B\u0439 \u043E\u0442\u0434\u044B\u0445 \u043D\u0430 \u041C\u0430\u043B\u044C\u0434\u0438\u0432\u0430\u0445",
     description: "\u0414\u043E\u0431\u0440\u044B\u0439 \u0434\u0435\u043D\u044C! \u0425\u043E\u0442\u0435\u043B\u043E\u0441\u044C\xA0\u0431\u044B \u0441\u043A\u0430\u0437\u0430\u0442\u044C \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u0441\u043F\u0430\u0441\u0438\u0431\u043E \u043C\u0435\u043D\u0435\u0434\u0436\u0435\u0440\u0443 \u0410\u043D\u043D\u0435 \u0437\u0430\xA0\u0435\u0435\xA0\u0445\u043E\u0440\u043E\u0448\u0443\u044E \u0440\u0430\u0431\u043E\u0442\u0443! \u0417\u0430\u0445\u043E\u0442\u0435\u043B\u043E\u0441\u044C \u043D\u0430\u043C \u0441\xA0\u043C\u0443\u0436\u0435\u043C \u043E\u0442\u0434\u043E\u0445\u043D\u0443\u0442\u044C \u043E\u0442\xA0\u043D\u0430\u0448\u0435\u0433\u043E \xAB\u0431\u0435\u043B\u043E\u0440\u0443\u0441\u0441\u043A\u043E\u0433\u043E \u043B\u0435\u0442\u0430\xBB \u0432\xA0\u0442\u0435\u043F\u043B\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u0435. \u0418\u0437\u043D\u0430\u0447\u0430\u043B\u044C\u043D\u043E \u043C\u0443\u0436 \u0441\u043A\u0435\u043F\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u043E\u0442\u043D\u0435\u0441\u0441\u044F \u043A\xA0\u043E\u0442\u0434\u044B\u0445\u0443 \u0432\xA0\u0422\u0443\u0440\u0446\u0438\u0438, \u043D\u043E\xA0\u0410\u043D\u0435\u0447\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u0435\u0433\u043E \u043F\u0435\u0440\u0435\u0443\u0431\u0435\u0434\u0438\u0442\u044C\xA0\u2014 \u0432\u0441\u0435 \u0442\u0430\u043A\u0438 \u043D\u0430\xA0\u043A\u0443\u0440\u043E\u0440\u0442\u0430\u0445 \u0432\u0441\u0435 \u0442\u0438\u0445\u043E \u0438\xA0\u0441\u043F\u043E\u043A\u043E\u0439\u043D\u043E. \u0412\xA0\u0438\u0442\u043E\u0433\u0435 \u0432\u044B\u0431\u0440\u0430\u043B\u0438 \u043E\u0442\u0435\u043B\u044C \u043D\u0435\u043F\u043E\u0434\u0430\u043B\u0435\u043A\u0443 \u043E\u0442\xA0\u041A\u0435\u043C\u0435\u0440\u0430\xA0\u2014 \u0411\u0435\u043B\u044C\u043F",
-    avatar: "/assets/images/personal/feedback1.jpg",
+    avatar: "assets/images/personal/feedback1.jpg",
     name: "\u0418\u0432\u0430\u043D \u0424\u0435\u0434\u043E\u0440\u043E\u0432",
     info: "\u041E\u0442\u0434\u044B\u0445\u0430\u043B \u0432 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u0435 2023 \u0432 \u041A\u0430\u0438\u0440\u0435, \u0415\u0433\u0438\u043F\u0435\u0442",
     link: "#"
@@ -57238,7 +57238,7 @@ var SubscribeSectionComponent = class _SubscribeSectionComponent {
       \u0275\u0275text(17, " \u043F\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 Telegram \u043A\u0430\u043D\u0430\u043B \u043F\u0435\u0440\u0435\u0439\u0442\u0438 \u0432 Telegram \u043A\u0430\u043D\u0430\u043B ");
       \u0275\u0275elementEnd()()()()()()()()();
     }
-  }, dependencies: [RotateOnScrollDirective], styles: ['\n\n.subscribe-section[_ngcontent-%COMP%] {\n  padding: 40px 0;\n  background-image: url(/assets/images/subscribe_bg.jpg);\n  background-position: center;\n  background-size: cover;\n  background-repeat: no-repeat;\n  color: #fff;\n  position: relative;\n}\n.subscribe-section[_ngcontent-%COMP%]::before {\n  content: "";\n  width: 100%;\n  height: 100%;\n  background-color: #404a69;\n  opacity: 40%;\n  position: absolute;\n  top: 0;\n  left: 0;\n}\n.subscribe-section__wrapper[_ngcontent-%COMP%] {\n  position: relative;\n  z-index: 2;\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  align-items: center;\n}\n.subscribe-section__content[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  gap: 45px;\n}\n.subscribe-section__text[_ngcontent-%COMP%] {\n  max-width: 400px;\n  text-wrap: balance;\n  font-size: 20px;\n  font-family: "Manrope Semibold";\n  line-height: 140%;\n}\n.subscribe-section__image[_ngcontent-%COMP%] {\n  position: relative;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  overflow: hidden;\n}\n.subscribe-section__image[_ngcontent-%COMP%]   .icon.icon-tg[_ngcontent-%COMP%] {\n  position: absolute;\n  font-size: 100px;\n  padding: 20px;\n  border: 2px solid rgba(255, 255, 255, 0.5);\n  border-radius: 50%;\n  background-color: rgba(255, 255, 255, 0.15);\n  width: 145px;\n  height: 145px;\n}\n.subscribe-section__image[_ngcontent-%COMP%]   .icon.icon-tg[_ngcontent-%COMP%]:before {\n  margin-left: -3px;\n}'] });
+  }, dependencies: [RotateOnScrollDirective], styles: ['\n\n.subscribe-section[_ngcontent-%COMP%] {\n  padding: 40px 0;\n  background-image: url("./media/subscribe_bg-KMJ6PTXH.jpg");\n  background-position: center;\n  background-size: cover;\n  background-repeat: no-repeat;\n  color: #fff;\n  position: relative;\n}\n.subscribe-section[_ngcontent-%COMP%]::before {\n  content: "";\n  width: 100%;\n  height: 100%;\n  background-color: #404a69;\n  opacity: 40%;\n  position: absolute;\n  top: 0;\n  left: 0;\n}\n.subscribe-section__wrapper[_ngcontent-%COMP%] {\n  position: relative;\n  z-index: 2;\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n  align-items: center;\n}\n.subscribe-section__content[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  gap: 45px;\n}\n.subscribe-section__text[_ngcontent-%COMP%] {\n  max-width: 400px;\n  text-wrap: balance;\n  font-size: 20px;\n  font-family: "Manrope Semibold";\n  line-height: 140%;\n}\n.subscribe-section__image[_ngcontent-%COMP%] {\n  position: relative;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  overflow: hidden;\n}\n.subscribe-section__image[_ngcontent-%COMP%]   .icon.icon-tg[_ngcontent-%COMP%] {\n  position: absolute;\n  font-size: 100px;\n  padding: 20px;\n  border: 2px solid rgba(255, 255, 255, 0.5);\n  border-radius: 50%;\n  background-color: rgba(255, 255, 255, 0.15);\n  width: 145px;\n  height: 145px;\n}\n.subscribe-section__image[_ngcontent-%COMP%]   .icon.icon-tg[_ngcontent-%COMP%]:before {\n  margin-left: -3px;\n}'] });
 };
 (() => {
   (typeof ngDevMode === "undefined" || ngDevMode) && \u0275setClassDebugInfo(SubscribeSectionComponent, { className: "SubscribeSectionComponent", filePath: "src\\app\\shared\\components\\section\\subscribe-section\\subscribe-section.component.ts", lineNumber: 11 });
