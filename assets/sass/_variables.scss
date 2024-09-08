@@ -5,6 +5,8 @@
   --bs-secondary: #27A6AF;
   --bs-tertiary: #404A69;
 
+  --bs-tertiary-hover-bg: #4F5B81;
+
 
   --bs-body-font-family: "Manrope Regular";
   --bs-body-font-size: 16px;
@@ -27,6 +29,10 @@
   --bs-link-decoration: node;
   --bs-link-hover-color: #FF9A00;
   --bs-link-hover-decoration: underline;
+
+  --z-index-header: 999;
+  --z-index-overlay: 998;
+
 }
 
 .btn-primary,

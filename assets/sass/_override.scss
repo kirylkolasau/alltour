@@ -1,5 +1,12 @@
 @import "./mixins";
 
+html, body {
+  height: 100%;
+}
+body {
+  font-size: var(--bs-body-font-size);
+}
+
 h1 {
   @include new-h1;
 }
