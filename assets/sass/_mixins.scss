@@ -1,3 +1,4 @@
+@import "./mixins.breakpoints";
 /*text style*/
 
 // @mixin new-h1 {
@@ -104,10 +105,18 @@
 
 @mixin new-h1 {
   @include new-text(55px, Bold, 110%);
+
+  @include breakpoint(mobile) {
+    @include new-text(27px, Bold, 110%);
+  }
 }
 
 @mixin new-h2 {
   @include new-text(38px, Bold, 110%);
+
+  @include breakpoint(mobile) {
+    @include new-text(24px, Bold, 110%);
+  }
 }
 
 @mixin new-h3 {
