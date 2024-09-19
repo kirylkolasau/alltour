@@ -110,3 +110,10 @@
   --bs-btn-disabled-bg: #F5F6F9;
   --bs-btn-disabled-border-color: #F5F6F9;
 }
+
+
+.ng-scrollbar {
+  --scrollbar-thumb-color: var(--bs-tertiary);
+  --scrollbar-border-radius: 5px;
+  --scrollbar-thickness: 8;
+}
